@@ -1,0 +1,92 @@
+[
+  {
+    "text": "What is Android Jetpack?",
+    "answers": [
+      "All of these",
+      "Tools",
+      "Documentation",
+      "Libraries"
+    ]
+  },
+  {
+    "text": "What is the base class for layouts?",
+    "answers": [
+      "ViewGroup",
+      "ViewSet",
+      "ViewCollection",
+      "ViewRoot"
+    ]
+  },
+  {
+    "text": "What layout do you use for complex screens?",
+    "answers": [
+      "ConstraintLayout",
+      "GridLayout",
+      "LinearLayout",
+      "FrameLayout"
+    ]
+  },
+  {
+    "text": "What do you use to push structured data into a layout?",
+    "answers": [
+      "Data binding",
+      "Data pushing",
+      "Set text",
+      "An OnClick method"
+    ]
+  },
+  {
+    "text": "What method do you use to inflate layouts in fragments?",
+    "answers": [
+      "onCreateView()",
+      "onActivityCreated()",
+      "onCreateLayout()",
+      "onInflateLayout()"
+    ]
+  },
+  {
+    "text": "What's the build system for Android?",
+    "answers": [
+      "Gradle",
+      "Graddle",
+      "Grodle",
+      "Groyle"
+    ]
+  },
+  {
+    "text": "Which class do you use to create a vector drawable?",
+    "answers": [
+      "VectorDrawable",
+      "AndroidVectorDrawable",
+      "DrawableVector",
+      "AndroidVector"
+    ]
+  },
+  {
+    "text": "Which one of these is an Android navigation component?",
+    "answers": [
+      "NavController",
+      "NavCentral",
+      "NavMaster",
+      "NavSwitcher"
+    ]
+  },
+  {
+    "text": "Which XML element lets you register an activity with the launcher activity?",
+    "answers": [
+      "intent-filter",
+      "app-registry",
+      "launcher-registry",
+      "app-launcher"
+    ]
+  },
+  {
+    "text": "What do you use to mark a layout for data binding?",
+    "answers": [
+      "<layout>",
+      "<binding>",
+      "<data-binding>",
+      "<dbinding>"
+    ]
+  }
+]
